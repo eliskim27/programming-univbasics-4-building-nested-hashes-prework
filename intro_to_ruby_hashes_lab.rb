@@ -25,7 +25,10 @@ def monopoly_with_third_tier
 	      :e => "e"
 	    },
 	    :names => {
-	      
+	      :a => "a",
+	      :b => "b",
+	      :c => "c",
+	      :e => "e"
 	    }
 	  }
 	}
