@@ -20,6 +20,9 @@ def monopoly_with_third_tier
 	    :pieces => 4,
 	    :rent_in_dollars => {
 	      :a => "a",
+	      :b => "b",
+	      :c => "c",
+	      :e => "e"
 	    }
 	  }
 	}
